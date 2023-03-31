@@ -17,6 +17,10 @@
     width: auto;
 }
 
-.cruz{
-    color: green;
+.fa-square-check{
+    color: red;
+}
+
+.fa-solid{
+    color:green;
 }
