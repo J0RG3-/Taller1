@@ -1,0 +1,22 @@
+#formulario {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #66ffff;
+}
+
+.card {
+    border: none;
+  }
+
+  .carousel img {
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 550px;
+    max-height: 550px;
+    width: auto;
+}
+
+.cruz{
+    color: green;
+}
